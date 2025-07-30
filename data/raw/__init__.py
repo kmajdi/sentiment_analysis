@@ -1,1 +1,1 @@
-# init
+"""Package for raw example data."""
