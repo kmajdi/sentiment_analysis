@@ -1,0 +1,7 @@
+beautifulsoup4
+newspaper3k
+spacy
+transformers
+scikit-learn
+pandas
+pyyaml

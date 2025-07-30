@@ -1,0 +1,4 @@
+bias_model_path: models/bias_model/model.pt
+urgency_model_path: models/urgency_model/model.pt
+finbert_model: 'yiyanghkust/finbert-tone'
+mapping_table: data/mapping_table.csv
